@@ -1,0 +1,8 @@
+
+
+#ifndef HAL_STEPPERMOTOR_PRIVATE_H_
+#define HAL_STEPPERMOTOR_PRIVATE_H_
+
+
+
+#endif /* HAL_CLCD_CLCD_PRIVATE_H_ */

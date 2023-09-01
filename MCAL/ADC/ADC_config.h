@@ -1,0 +1,19 @@
+/*
+ * ADC_config.h
+ *
+ *  Created on: Aug 13, 2023
+ *      Author: Obiid
+ */
+
+#ifndef MCAL_ADC_ADC_CONFIG_H_
+#define MCAL_ADC_ADC_CONFIG_H_
+
+
+#define ADC_INTERRUPT_ENABLE 	1
+#define ADC_INTERRUPT_DISABLE 	0
+
+
+//OPTIONS : 1- ADC_INTERRUPT_ENABLE  2-ADC_INTERRUPT_DISABLE
+#define 	ADC_INTERRUPT_STATUS   ADC_INTERRUPT_DISABLE
+
+#endif /* MCAL_ADC_ADC_CONFIG_H_ */
